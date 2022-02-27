@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and confession of Capt. Brown-Bushel, at the place of execution on Saturday last, under the scaffold on Tower-Hill: with the manner of his deportment, and his coming from the Tower in a scarlet cloak; as also his prayer, and desires to the people. Together with the manner of his tryall; and the articles and charge exbibited [sic] against him. / Written by G.H. an eye-witnesse.</title>
+            <author>Bushell, Brown, d. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86851</idno>
+            <idno type="STC">Wing H36</idno>
+            <idno type="STC">Thomason E626_14</idno>
+            <idno type="STC">ESTC R202481</idno>
+            <idno type="EEBO-CITATION">99862741</idno>
+            <idno type="PROQUEST">99862741</idno>
+            <idno type="VID">165828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and confession of Capt. Brown-Bushel, at the place of execution on Saturday last, under the scaffold on Tower-Hill: with the manner of his deportment, and his coming from the Tower in a scarlet cloak; as also his prayer, and desires to the people. Together with the manner of his tryall; and the articles and charge exbibited [sic] against him. / Written by G.H. an eye-witnesse.</title>
+                  <author>Bushell, Brown, d. 1651.</author>
+                  <author>G. H.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "March 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bushell, Brown, d. 1651.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165828:1" rendition="simple:additions"/>
+            <p>THE SPEECH AND Confeſſion of Capt. Brown-Buſhel, at the place of Execution on <hi>Saturday</hi> laſt, under the Scaffold on Tower-Hill: With the manner of his deportment, and his coming from the Tower in a Scarlet Cloak; as alſo his Prayer, and Deſires to the People. Together with the manner of his Tryall; and the Articles and Charge exbibited againſt him. <hi>Written by</hi> G. H. <hi>an Eye-Witneſſe.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of the execution of Brown Bushel: a man lies across an execution-block on a scaffold with a man holding an axe above him and two more men, one holding a pike, standing close by; a fifth man stands on the ground beside the scaffold</figDesc>
+               <p>Lord Jeſus receive my ſoul.</p>
+            </figure>
+            <p>Imprinted at <hi>London</hi> by <hi>R. W.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:165828:2"/>
+            <pb n="1" facs="tcp:165828:2"/>
+            <head>The Speech and Confeſſion of Capt. Brown-Buſhel, at the place of exe<g ref="char:EOLhyphen"/>cution under the Scaffold at Tower-Hill on Saturday laſt, being the 29 of March, 1651.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>HAving been an Eye-witneſſe of the manner and deportment of <hi>Captain Brown-Buſhel</hi> at the place of Execution on Saturday laſt at Tower-Hill, I could do no leſs, than demonſtrate to the world, his true <hi>Character</hi> and <hi>Embleme,</hi> And by reaſon that I may not leave the world unſatisfied, touching the cauſe of this his Execution, give me leave, I be<g ref="char:EOLhyphen"/>ſeech you, to preſent you with (in the firſt place) his Articles of Impeachment, and his Tryall, before the High-court of Juſtice in Weſtminſter-Hall on Tueſday the 25 of March, 1651. a Narrative where<g ref="char:EOLhyphen"/>of followeth.</p>
+            <pb n="2" facs="tcp:165828:3"/>
+            <p>On <hi>Tueſday</hi> (as aforeſaid) He was brought to the Bar, and then charged with the betraying, ſurrendring, and yielding up of the Caſtle and Town of <hi>Scarbrough</hi> in the County of <hi>York,</hi> the Command whereof he had taken upon him for the Parliament before.) And for levying War againſt the Par<g ref="char:EOLhyphen"/>liament at <hi>Beverley</hi> and <hi>Whitby.</hi> To which he pleaded, <hi>Not guilty.</hi> And the proof againſt him of his Fact ſtands thus. Being brought to the Bar again the ſame day, The Witneſſes for the Common-wealth brought up from <hi>Yorkeſhire</hi> were preſent, and gave their Evidence, That Sir <hi>Hugh Cholmley</hi> Revolt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng from the Parliament 25 <hi>March,</hi> 1645. And then holding out the Caſtle of <hi>Scarbrough</hi> for the late King, <hi>Buſhel</hi> the Thurſday before <hi>Easter</hi> came to <hi>Scarbrough</hi> to the Bayliffs and deſired their aſſiſtance to keep the Caſtle, which that night he did, and pretended he would hold it out for the Parliament. But <hi>Cholmley</hi> next night, being Good-Friday, coming againſt the place with Forces dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn out of divers of the Kings Gariſons, <hi>Buſhel</hi> ſurrendred it on the next morn<g ref="char:EOLhyphen"/>ing without making any reſiſtance, or diſcharging any ſhot againſt <hi>Cholmley,</hi> although the Towneſmen and Souldiers in the Caſtle would willinglg have reſiſted. And after this, H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming to <hi>Hull</hi> to S<hi rend="sup">r</hi> 
+               <hi>John Hotham,</hi> was there impri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oned, and by <hi>Cholmleys</hi> means exchanged and ſo took up ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with him, and came with 600 or 700 Cavaliers in <hi>Auguſt,</hi> 1644. againſt <hi>Beverley,</hi> and there was in fight againſt the Parlia<g ref="char:EOLhyphen"/>ments forces, and from thence went to <hi>Whitby,</hi> where he was alſo in armes, and there ſeized upon ſeveral Veſſels of the Parliaments ſide, and rifled and pillaged them of their mo<g ref="char:EOLhyphen"/>neys and goods, and impriſoned one of the Maſters in Irons. Thus ſtanding the Evidence, <hi>Buſhel</hi> confeſt his being in arms at <hi>Beverley</hi> and <hi>Whitby,</hi> and that he delivered up the Caſtle becauſe he had not force enough to withſtand <hi>Cholm<g ref="char:EOLhyphen"/>ley;</hi> but made no proof of any thing. Upon the whole matter the Court adjudged him guilty of Treaſon and de<g ref="char:EOLhyphen"/>nounced Sent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, to have his head ſevered from his ſhoul<g ref="char:EOLhyphen"/>ders at Tower-hill <hi>London,</hi> on Saturday the 29 of <hi>March,</hi> (being the day of the week on which he betrayed the ſaid Caſtle and Town.</p>
+            <pb n="3" facs="tcp:165828:3"/>
+            <p>And accordingly on Saturday laſt, about 5 of the clock in the Afternoon, he was brought from the Tower to the place of Execution, being accompanyed by Col. <hi>Weſt,</hi> Sheriff <hi>Chi<g ref="char:EOLhyphen"/>verton,</hi> and others. He came in his Scarlet cloak, ſmiling upon the people; and ſo ſoon as he had entred under the Scaffold, ſaluted the Lieutenant of the Tower; then turning himſelf about, and eſpying the Ax and Block, ſaid, <hi>I thank my God</hi> (putting off his hat) <hi>I do not fear theſe Inst<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uments; and bleſsed be his Holy Name,</hi> (caſting his eyes up towards Heaven) <hi>that hath taken away the ſting of Death.</hi> Then taking two or three paces on the ground, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd eſpying a multitude of people, ſaid, <hi>Well I ſomething is expected from me before I die, I hope</hi> (M<hi rend="sup">r</hi> She<g ref="char:EOLhyphen"/>riff) <hi>I may have liberty to ſpeak my mind, being a dying man.</hi> Sh. Yes Sir. Cap <hi>Buſhel. I thank you Sir.</hi> But by reaſon of the preſſing in of the Spectators ſo neer him, he was a little in<g ref="char:EOLhyphen"/>terrupted, uttering theſe words, <hi>Gentlemen, pray give me a little room, I ſhall not deſire it long.</hi> Whereupon the Sheriff, Officers and Souldiers forced them to retire to a further diſtance; Then, urning himſelf round, with his hat in his hand, de<g ref="char:EOLhyphen"/>clared himſelf to the Spectators as followeth.</p>
+            <div type="speech">
+               <opener>
+                  <salute>Chriſtian People,</salute>
+               </opener>
+               <p>I Am brought hither to die, and to pay the wages of Death, for which I am not in the leaſt ſory; but rather conceive it a great mer<g ref="char:EOLhyphen"/>cy from Heaven, that God hath been pleaſed to uſe this means, for bringing me ſo much the nearer and ſooner unto him: Yet I deſire that the world may take notice, and underſtand, the true cauſe and grounds of this my untime<g ref="char:EOLhyphen"/>ly Death; Good people (putting off his hat) I ſerved the King of Spain 10 years with faith<g ref="char:EOLhyphen"/>fulneſs and integrity; but hearing of the di<g ref="char:EOLhyphen"/>ſtractions
+<pb n="4" facs="tcp:165828:4"/> in England, I was deſirous to do ſer<g ref="char:EOLhyphen"/>vice in my Native Countrey, and in order thereunto took ſhipping at Dunkirk, and landed in the Northern Parts, where I firſt en<g ref="char:EOLhyphen"/>gaged for King and Parliament; but after<g ref="char:EOLhyphen"/>wards being convinc'd (both in Conſcience &amp; Judgment) of the unlawfulneſſe of that En<g ref="char:EOLhyphen"/>gagement, I then deſerted the Parliament, be<g ref="char:EOLhyphen"/>ing heartily ſorry, that ever I drew my Sword for ſuch—Maſters; And (truly) had I as many lives, as I have haires upon my head, I ſhould freely and willingly adventure them all for my ſecond Maſter the King (putting off his hat) As for my ſufferings they have been great, having bin confin'd to a very ſmall allowance, to the value of two pence a day ſometimes, which did not a little trouble me; conſidering, that I have kept as good a houſe, as any Gentlemen here, excepting Mr. Sheriff; But God forgive my Enemies, as I freely do, &amp; I deſire my bloud may be the laſt, that is to be ſhed upon this account. Touching my Religi<g ref="char:EOLhyphen"/>on, it is apparently known, that I have been, and here die, a true Son to the Church of England, a loyal Subject to my Maſter the
+<pb n="5" facs="tcp:165828:4"/> King, and a cordial friend to the Land of my Nativity; for all which, I hope, through the great merits and precious blood of my Lord and Saviour Jeſus Chriſt, to receive a Crown of glory, and the pardon and remiſſion of ſins, from the moſt great God, and omnipotent Jehovah of Heaven and earth (putting off his Hat, with his hands lifted up, looking towards heaven.) Then turning himſelf about, and e<g ref="char:EOLhyphen"/>ſpying a great many people on the tops of Houſes, ſaid, Alas poor Creatures, you may behold a ſad ſpectacle, but a loyal ſubject; and ſo God bleſs you all. Then turning to the Ex<g ref="char:EOLhyphen"/>ecutioner, ſaid, prethee ſhew me the Block, I will Sir, He kiſt it: where is the other Inſtru<g ref="char:EOLhyphen"/>ment? Executioner, here Sir, and ſhewing him the Ax, he ſaid, Is this the Block and Ax which my late Royal Maſter received the fa<g ref="char:EOLhyphen"/>tal blow from? yes Sir, theſe are the ſame: well, (ſmiling) Gods will be done, I bleſs my God that hath brought me hither this day, I am ready: Then, caſting off his Scarlet Cloak, gave it to his Kinſman, there preſent; which done, with undantedneſs of ſpirit, he unbrac'd himſelf, and threw off his Doublet; then he pulled a white cap out of his pocket, and put it on his head; and calling to the Executioner, ſaid, Is
+<pb facs="tcp:165828:5"/> there any thing elſe to be done? Executioner, yes Sir, your hair muſt be put up under your cap: pre<g ref="char:EOLhyphen"/>thee help me; then the Executioner put up his hair: Cap. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſhel,</hi> well done, is all well now? Executioner, yes Sir, Then he kneeled down, and deſired the people to pray for him; and after he had ſaid the Lords prayer, roſe up again, lifting up his eyes to Heaven, ſaying, To thee O Father and thy bleſſed ſpirit, be all honour and glory, both now and for e<g ref="char:EOLhyphen"/>ver, Amen. And then coming to the Executioner, ſaid, come honeſt friend, give me thy hand; the Lord forgive thee, I do, here is 20 s. for thee, and God bleſſe thee; had I more, thou ſhould have it; but truly here is the mite of a loyal Subject, and a dying man. Prethee how ſhall I lie, I will ſhew you Sir, kneeling down, ſaid, it will do very well: here is a ſkarfe for thee, prethee lay it upon the block, I will Sir: then kneeling down the ſecond time, and ſaying, Lord Jeſus receive my ſoul, and holding up his right hand, (which was the ſign) the Executio<g ref="char:EOLhyphen"/>ner did his Office, and ſevered his head from his ſhoulders at one blow. So ſoon as he had done this he took him by the arm, and laid him upon his back; and then took the Red Scarf from under him, which covered the Block and all the Saw-duſt: the ſaid Scarf being 5 yards in length, and 3 yards broad.</p>
+               <p>The manner of this Gentlemen at his departing, will cauſe many (eſpecially thoſe of his own fraternity) to eter<g ref="char:EOLhyphen"/>nize his Name; but it is biſput<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble, whether conſcience or courage, arm'd him with this Reſolution: Let us look back into former Ages, and we ſhal find many the like preſidents; for the Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eks and Med<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s being at war one with the other, the Grecians took a courage and oath, proteſting, that each particular man would rather change his life into death, then their Lawes for the Perſians.</p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <hi>So whether out of envy to this preſent Government, or love to the precedent, wrought moſt in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he heart of this man, I leave it for the charity of thoſe that read theſe his dying words to judge.</hi>
+               </p>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
